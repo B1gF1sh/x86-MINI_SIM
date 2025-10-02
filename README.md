@@ -11,8 +11,7 @@ Designed to help students learn assembly programming and computer architecture.
 - Star dialog & About dialog
 
 ## 🚀 Windows Build
-[⬇️ Download Windows Portable](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.0/x86_MINI_SIM.zip)
-
+👉 [Download x86-MINI_SIM (Windows Portable Build)](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.0/x86-MINI_SIM.zip)
 
 🐞 Found a bug? [Open an issue](https://github.com/B1gF1sh/x86-MINI_SIM/issues)
 
