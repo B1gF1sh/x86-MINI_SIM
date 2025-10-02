@@ -10,11 +10,13 @@ Designed to help students learn assembly programming and computer architecture.
 - GUI built with Qt (Code editor, run/step/reset, memory viewer)
 - Star dialog & About dialog
 
+- ## 🚀 Windows Build
+[⬇️ Download Windows Portable](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.0/x86_Simulator_GUI_Windows.zip)
+
+
 ## 🚀 Build (Linux)
 ```bash
 qmake
 make -j$(nproc)
 ./x86_Simulator_GUI
 
-## Windows Build
-[Download from Releases](https://github.com/B1gF1sh/x86-MINI_SIM/releases)
