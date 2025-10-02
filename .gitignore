@@ -1,0 +1,28 @@
+# Qt Creator ayar dosyaları
+*.user
+*.pro.user
+*.pro.user.*
+*.autosave
+*.qmlproject.user*
+
+# Derleme çıktıları
+build*/
+cmake-build-*/
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.app
+*.AppImage
+
+# Qt cache
+.qmake.stash
+Makefile*
+
+# OS çöp dosyaları
+.DS_Store
+Thumbs.db
+
