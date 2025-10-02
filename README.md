@@ -14,6 +14,9 @@ Designed to help students learn assembly programming and computer architecture.
 [⬇️ Download Windows Portable](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.0/x86_MINI_SIM.zip)
 
 
+🐞 Found a bug? [Open an issue](https://github.com/B1gF1sh/x86-MINI_SIM/issues)
+
+
 ## 🚀 Build (Linux)
 ```bash
 qmake
