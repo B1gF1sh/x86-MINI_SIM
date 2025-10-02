@@ -16,3 +16,5 @@ qmake
 make -j$(nproc)
 ./x86_Simulator_GUI
 
+## Windows Build
+[Download from Releases](https://github.com/B1gF1sh/x86-MINI_SIM/releases)
