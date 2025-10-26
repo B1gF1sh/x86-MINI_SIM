@@ -13,6 +13,11 @@ Designed to help students learn assembly programming and computer architecture.
 ## 🚀 Windows Build
 👉 [Download x86-MINI_SIM (Windows Portable Build)](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.0/x86-MINI_SIM.zip)
 
+🧠 **macOS Build**
+
+[Download x86_Simulator_GUI (macOS Portable Build)](https://github.com/B1gF1sh/x86-MINI_SIM/releases/latest)
+
+
 🐞 Found a bug? [Open an issue](https://github.com/B1gF1sh/x86-MINI_SIM/issues)
 
 
