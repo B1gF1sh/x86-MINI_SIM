@@ -17,7 +17,7 @@ Designed to help students learn assembly programming and computer architecture.
 👉[Download for macOS (.dmg)](https://github.com/B1gF1sh/x86-MINI_SIM/releases/download/v1.0.1/x86_Simulator_GUI.dmg)
 
 
-
+ ##
 🐞 Found a bug? [Open an issue](https://github.com/B1gF1sh/x86-MINI_SIM/issues)
 
 
